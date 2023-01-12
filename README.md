@@ -1,12 +1,12 @@
 ### Welcome!! 👋
-
+<!--
 <div align="center">
   <a href="https://github.com/lireupt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lireupt&layout=compact&langs_count=7&theme=ocean_dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lireupt&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 </div>
 </div>
-<!--
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
